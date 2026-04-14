@@ -1,0 +1,11 @@
+name: karpathy-guidelines
+title: Karpathy Guidelines
+description: >
+  Behavioral guidelines to reduce common LLM coding mistakes.
+  Enforces simplicity, surgical changes, surface assumptions,
+  and goal-driven execution with verifiable success criteria.
+version: 1.0.0
+settings_sections: []
+per_project_config: true
+per_agent_config: true
+always_enabled: false
