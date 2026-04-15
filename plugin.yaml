@@ -1,4 +1,4 @@
-name: karpathy-guidelines
+name: karpathy_guidelines
 title: Karpathy Guidelines
 description: >
   Behavioral guidelines to reduce common LLM coding mistakes.
@@ -9,3 +9,4 @@ settings_sections: []
 per_project_config: true
 per_agent_config: true
 always_enabled: false
+
